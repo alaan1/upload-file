@@ -1,5 +1,6 @@
 pyrogram
 TgCrypto
 pyro-listener
+python-dotenv
 kvsqlite
 requests
