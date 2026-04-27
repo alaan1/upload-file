@@ -2,3 +2,4 @@ pyrogram
 TgCrypto
 pyro-listener
 kvsqlite
+requests
