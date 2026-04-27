@@ -8,7 +8,7 @@ API_ID = 7706053
 API_HASH = "a87b492b8fe379c5fd63793d29ca7a27"
 BOT_TOKEN = "7703260297:AAGhND4ti2mPpbV0gFYDvS6GEBGHFSpuVH0"
 
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 REPO = "alaan1/DataBase"  # مثال: alaan1/myproject
 
 # =====================
